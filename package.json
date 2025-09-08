@@ -6,7 +6,8 @@
   "scripts": {
     "test": "vitest run --coverage",
     "test:watch": "vitest",
-    "migrate:storage": "node src/migrate_storage.js"
+    "migrate:storage": "node src/migrate_storage.js",
+    "migrate:profiles": "node src/migrate_profiles.js"
   },
   "keywords": [],
   "author": "",
