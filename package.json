@@ -7,7 +7,8 @@
     "test": "vitest run --coverage",
     "test:watch": "vitest",
     "migrate:storage": "node src/migrate_storage.js",
-    "migrate:profiles": "node src/migrate_profiles.js"
+    "migrate:profiles": "node src/migrate_profiles.js",
+    "migrate:audio": "node src/migrate_audio.js"
   },
   "keywords": [],
   "author": "",

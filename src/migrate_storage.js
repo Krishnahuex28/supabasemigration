@@ -208,6 +208,16 @@ function guessContentTypeFromPath(p) {
 			return 'image/gif';
 		case 'pdf':
 			return 'application/pdf';
+		case 'wav':
+			return 'audio/wav';
+		case 'mp3':
+			return 'audio/mpeg';
+		case 'm4a':
+			return 'audio/mp4';
+		case 'ogg':
+			return 'audio/ogg';
+		case 'aac':
+			return 'audio/aac';
 		default:
 			return 'application/octet-stream';
 	}
