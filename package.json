@@ -11,7 +11,9 @@
     "migrate:audio": "node src/migrate_audio.js",
     "move:audio": "node src/move_audio_to_interviews.js",
     "migrate:availabilities": "node src/migrate_profile_availabilities.js",
-    "migrate:interview-results": "node src/migrate_interview_results.js"
+    "migrate:interview-results": "node src/migrate_interview_results.js",
+    "migrate:company-logos": "node src/migrate_company_logo.js",
+    "migrate:companies": "node src/migrate_companies.js"
   },
   "keywords": [],
   "author": "",
