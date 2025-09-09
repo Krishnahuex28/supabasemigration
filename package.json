@@ -8,7 +8,8 @@
     "test:watch": "vitest",
     "migrate:storage": "node src/migrate_storage.js",
     "migrate:profiles": "node src/migrate_profiles.js",
-    "migrate:audio": "node src/migrate_audio.js"
+    "migrate:audio": "node src/migrate_audio.js",
+    "move:audio": "node src/move_audio_to_interviews.js"
   },
   "keywords": [],
   "author": "",
