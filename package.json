@@ -10,7 +10,8 @@
     "migrate:profiles": "node src/migrate_profiles.js",
     "migrate:audio": "node src/migrate_audio.js",
     "move:audio": "node src/move_audio_to_interviews.js",
-    "migrate:availabilities": "node src/migrate_profile_availabilities.js"
+    "migrate:availabilities": "node src/migrate_profile_availabilities.js",
+    "migrate:interview-results": "node src/migrate_interview_results.js"
   },
   "keywords": [],
   "author": "",
