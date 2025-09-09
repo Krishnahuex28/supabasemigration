@@ -16,7 +16,8 @@
     "migrate:companies": "node src/migrate_companies.js",
     "migrate:company-members": "node src/migrate_company_members.js",
     "migrate:jobs": "node src/migrate_jobs.js",
-    "init:boards": "node src/init_company_boards.js"
+    "init:boards": "node src/init_company_boards.js",
+    "migrate:onboarding-requests": "node src/migrate_onboarding_requests.js"
   },
   "keywords": [],
   "author": "",
