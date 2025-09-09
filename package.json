@@ -13,7 +13,8 @@
     "migrate:availabilities": "node src/migrate_profile_availabilities.js",
     "migrate:interview-results": "node src/migrate_interview_results.js",
     "migrate:company-logos": "node src/migrate_company_logo.js",
-    "migrate:companies": "node src/migrate_companies.js"
+    "migrate:companies": "node src/migrate_companies.js",
+    "migrate:company-members": "node src/migrate_company_members.js"
   },
   "keywords": [],
   "author": "",
